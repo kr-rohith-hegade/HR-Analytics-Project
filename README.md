@@ -54,7 +54,8 @@ The analysis helps organizations understand employee behavior, reduce attrition,
 
 K R Rohith Hegade
 
-Aspiring Data Analyst | SQL | Excel | Tableau | Power BI | HR Analytics
+Data Analyst Fresher
+| SQL | Excel | Tableau | Power BI | HR Analytics
 
 📫 Connect With Me
 
